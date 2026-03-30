@@ -54,7 +54,7 @@ Clade Divergence: A major finding is the clear, distinct separation of the Omicr
 
 Bootstrap Confidence: Values at the nodes (e.g., 1 and 0.894 defining the Omicron lineage branch) indicate strong bootstrap confidence in these major evolutionary divergences.
 
-<img src="Phylogenetic_Tree.png" width="800" alt="SARS-CoV-2 Spike Protein Phylogenetic Tree">
+<img src="Tree_spike_proteins.jpg" width="800" alt="SARS-CoV-2 Spike Protein Phylogenetic Tree">
 
 🚀 Analysis Workflow (Conceptual)
 
